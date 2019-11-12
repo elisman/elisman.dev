@@ -1,7 +1,7 @@
 baseURL = "https://elisman.dev/"
 languageCode = "en-us"
 title = "elisman.dev"
-theme = "gohugo-theme-ananke"
+theme = "ananke"
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
