@@ -1,3 +1,4 @@
 baseURL = "https://elisman.dev/"
 languageCode = "en-us"
 title = "elisman.dev"
+theme = "base16"
